@@ -1,0 +1,5 @@
+[
+  {"_id":{"$oid":"64bf597c9c1b68482efd810d"},"code":"1","title":"Test Currency 1","description":"Currency #1 for using in tests","_class":"org.paccounts.model.Currency"},
+  {"_id":{"$oid":"64bf597c9c1b68482efd810e"},"code":"2","title":"Test Currency 2","description":"Currency #2 for using in tests","_class":"org.paccounts.model.Currency"},
+  {"_id":{"$oid":"64bf597c9c1b68482efd810f"},"code":"3","title":"Test Currency 3","description":"Currency #3 for using in tests","_class":"org.paccounts.model.Currency"}
+]

@@ -1,0 +1,5 @@
+[
+  {"_id":{"$oid":"64bf597c9c1b68482efd8110"},"code":"1","type":"A","title":"Test Account 1","description":"Account #1 for using in tests","_class":"org.paccounts.model.Account"},
+  {"_id":{"$oid":"64bf597c9c1b68482efd8111"},"code":"2","type":"A","title":"Test Account 2","description":"Account #2 for using in tests","_class":"org.paccounts.model.Account"},
+  {"_id":{"$oid":"64bf597c9c1b68482efd8112"},"code":"3","type":"A","title":"Test Account 3","description":"Account #3 for using in tests","_class":"org.paccounts.model.Account"}
+]
